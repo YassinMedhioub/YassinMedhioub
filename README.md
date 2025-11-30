@@ -3,13 +3,13 @@
 
 <!-- Typing Effect for Introduction -->
 <a href="https://git.io/typing-svg">
-    <img src="https://media.giphy.com/media/xT0xeJpnkO3jXHwhYg/giphy.gif" alt="About Me GIF"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00C1D4&width=435&lines=Hello%2C+I'm+Yassin+Medhioub;Software+Engineering+Student;AI+Engineering+Enthusiast" alt="Software Engineering Student & AI Engineering Enthusiast"/>
 </a>
 
 <!-- About Me Section with GIF -->
 <div>
     
-    <img src="[https://media.giphy.com/media/xT0xeJpnkO3jXHwhYg/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B6MGRlMzhrYnRlNGh0c2FtenpoM2p4bW5udndkYmR2Z2Y1cW1sZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)" alt="About Me GIF"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B6MGRlMzhrYnRlNGh0c2FtenpoM2p4bW5udndkYmR2Z2Y1cW1sZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="About Me GIF"/>
 </div>
 
 ---
