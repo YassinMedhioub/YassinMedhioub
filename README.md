@@ -1,35 +1,37 @@
-# Hi there, I'm **Yassine Medhioub** 👋
+<!-- Header Section with Banner -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C1D4&height=120&section=header" alt="header"/>
 
-I'm a passionate **Full-Stack Developer** currently expanding my expertise in **AI Engineering**. I enjoy building end-to-end applications and am continuously learning and applying **Artificial Intelligence** and **Machine Learning** techniques to solve real-world problems.
+<!-- Typing Effect for Introduction -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00C1D4&width=435&lines=Hello%2C+I'm+Yassin+Medhioub;Software+Engineering+Student;AI+Engineering+Enthusiast" alt="Software Engineering Student & AI Engineering Enthusiast"/>
+</a>
+
+<!-- About Me Section with GIF -->
+<div>
+    <img src="https://media.giphy.com/media/xT0xeJpnkO3jXHwhYg/giphy.gif" alt="About Me GIF"/>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **building scalable web applications** and **learning AI/ML** to integrate smarter features into the systems I create.
-- 🌱 I’m currently diving deeper into **AI Engineering**, including **model optimization**, **data parallelism**, and **deep learning architectures**.
-- 👯 I’m looking to collaborate on projects that blend **full-stack development** and **AI-powered solutions**.
-- 💬 Ask me about **Web Development**, **AI/ML**, **Model Deployment**, or **API Integration**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yassinmedhioub/) | [Email](mailto:yassin@example.com)
+- 🔭 I'm a **Software Engineering Student** currently expanding my expertise in **AI Engineering**.
+- 🌱 Currently diving into **AI/ML**, focusing on **model optimization**, **data parallelism**, and **deep learning architectures**.
+- 👯 I’m looking to collaborate on projects that blend **web development** with **AI-powered solutions**.
+- 💬 Ask me about **Web Development**, **AI/ML**, **Cloud Computing**, or **Model Deployment**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yassinmedhioub/) | [Email](mailto:medhioubyassin6@gmail.com)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-Here are the technologies I use:
+Here are the technologies I use and am currently learning:
 
-- **Web Development**: JavaScript, TypeScript, HTML5, CSS3, React, Node.js, Express, REST APIs, GraphQL
-- **Back-End Development**: Python, Django, Flask, FastAPI, PostgreSQL, MongoDB
-- **AI & Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Keras
-- **DevOps & Tools**: Docker, Kubernetes, Git, Jenkins, Nginx
-- **Cloud Platforms**: AWS, Google Cloud, Heroku
-- **Other Tools**: GitHub Actions, CI/CD, WebSocket, Redis, Firebase
+### Main Skills:
+[![Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,vue,react,spring,express,nodejs,py,java,aws,git,github,docker)](https://skillicons.dev)
 
----
-
-## 📈 GitHub Stats
-
-![Yassine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YassinMedhioub&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+### Learning:
+[![Learning](https://skillicons.dev/icons?i=spring,pytorch,tensorflow)](https://skillicons.dev)
 
 ---
 
@@ -37,9 +39,9 @@ Here are the technologies I use:
 
 Here are some of the exciting projects I've worked on:
 
-- **[AI-Powered Full-Stack Web App](https://github.com/YassinMedhioub/ai-web-app)**: A web application integrating **AI/ML models** to offer personalized recommendations to users.
-- **[Image Classifier with Transfer Learning](https://github.com/YassinMedhioub/image-classifier)**: A project where I fine-tuned pre-trained deep learning models for image classification tasks using **TensorFlow**.
-- **[Real-Time Chat Application with WebSockets](https://github.com/YassinMedhioub/chat-app)**: A full-stack chat app that allows real-time communication using **Node.js**, **Socket.IO**, and **React**.
+- **[Polyglot Generator](https://github.com/YassinMedhioub/Video_Summarizer)**: Create polyglot media files by combining videos, images, PDFs, HTML, and ZIPs into a single downloadable file with selectable formats.
+- **[ JavaFX Stock Manager](https://github.com/YassinMedhioub/ISIMMStockManagement)**: A JavaFX desktop application for managing products, suppliers, categories, and orders. Features CRUD operations, real-time stock tracking, and PDF report generation with JasperReports. Built with Java, JavaFX, MySQL, and JFoenix for a modern UI.
+- **[Mercedes-Benz Showroom Management App](https://github.com/YassinMedhioub/mercedes-showroom)**: A full-stack web application for managing a Mercedes-Benz showroom, offering a luxurious experience for users and a powerful admin interface for staff.
 
 ---
 
@@ -52,17 +54,24 @@ Here are some of the exciting projects I've worked on:
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [yassinmedhioub](https://www.linkedin.com/in/yassinmedhioub/)
-- **Email**: [yassin@example.com](mailto:yassin@example.com)
+Feel free to connect with me on my social platforms:
+
+<div>
+    <a href="https://www.linkedin.com/in/yassinmedhioub/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"/>
+    </a>
+    <a href="medhioubyassin6@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="150"/>
+    </a>
+</div>
 
 ---
 
 ## 🏆 Certifications
 
 - **Data Parallelism: Training Models on Multiple GPUs** by **NVIDIA**
-- **Full-Stack Web Development with React** by **freeCodeCamp**
-- **Deep Learning Specialization** by **Andrew Ng** (Coursera)
-- **AI For Everyone** by **Andrew Ng** (Coursera)
+- **Building LLM Applications With Prompt Engineering** by **NVIDIA**
+- **Introduction to AI** by **Kaggle** 
 
 ---
 
@@ -71,3 +80,6 @@ Here are some of the exciting projects I've worked on:
 If you're interested in building **AI-powered applications** or combining **web development** with **AI**, feel free to reach out! I'm open to contributing to open-source projects, learning together, and building meaningful AI solutions.
 
 ---
+
+<!-- Footer Section -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C1D4&height=120&section=footer" alt="footer"/>
